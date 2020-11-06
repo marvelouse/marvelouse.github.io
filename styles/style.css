@@ -1,0 +1,36 @@
+html {
+	font-size: 10px;
+	font-family: 'Syne Mono', monospace;
+	background-color: #ff66ff;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  font-size: 36px;
+  color: #3366ff;
+  text-shadow: 3px 3px 2px black;
+}
+
+p, li:hover {
+	font-size: 16px;
+	line-height: 1;
+	letter-spacing: 1px;
+}
+
+body {
+  width: 800px;
+  margin: 25px auto;
+  background-color: #ff9933;
+  padding: 0 25px 25px 25px;
+  border: 5px solid black;
+}
+
+#my-search-id:hover {
+		font-size: 32px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
